@@ -1,4 +1,7 @@
 ## Hi there 👋
+### My name is Griffin, a 17 y/o computer network engineering & cyber security research student
+### Occasionally make software that either make my life easier or even harder
+### Amazed by low-level programming, aspired by high-level programming
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=griffinsectio)](https://github.com/anuraghazra/github-readme-stats)
 
