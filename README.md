@@ -3,7 +3,7 @@
 ### Occasionally make software that either make my life easier or even harder 🤣
 ### Amazed by low-level programming, fascinated by high-level programming ✨
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=griffinsectio&theme=nord)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=griffinsectio&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **griffinsectio/griffinsectio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
